@@ -7,7 +7,7 @@ Imagine a mob of people coalescing around an evolving vision by means of these f
 	- Kudos for helping to expand degrees of freedom for others.
 	- Boundless responsibility/curiosity about the impact of one's contributions.
 2. **How can my contribution be known?**
-	- Feedback and traceability multiply the contribution's value.
+	- Providing for analysis and feedback multiply the contribution's value.
 	- Insights into the wider impact of a contribution are contributions in themselves.
 3. **How can I be known?**
 	- By centralised or decentralised (self-sovereign) identity.
